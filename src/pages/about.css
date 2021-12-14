@@ -1,0 +1,36 @@
+.about_us_heading h1 {
+  color: var(--primary-color);
+  font-weight: 800;
+}
+
+.about_us {
+  width: 100%;
+  padding-bottom: 2rem;
+}
+
+.about_img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.about_img img {
+  width: 400px;
+  height: 400px;
+}
+
+.about_container {
+  padding-top: 3rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
+}
+
+.about_container p {
+  font-size: 1.5rem;
+}
+
+.about_container h1 {
+  color: var(--primary-color);
+  font-weight: 600;
+}
